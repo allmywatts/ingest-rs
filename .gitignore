@@ -1,0 +1,17 @@
+# Rust
+target/
+**/*.rs.bk
+
+# Python
+*.py[cod]
+__pycache__/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode
+.idea
